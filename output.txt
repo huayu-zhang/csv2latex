@@ -1,0 +1,14 @@
+\begin{table}[!hbtp]
+	\centering
+	\begin{tabular}{c c c}
+		\hline
+		 & Univariable OR[95\%-CI] &  Multivariable OR[95\%CI]\\
+		\hline
+		Affected by rare disease &  & \\
+		Age ($\ge$60) &  & \\
+		No of comorbidities &  & \\
+		\hline
+	\end{tabular}
+	\caption{Caption}
+	\label{Tab:Label}
+\end{table}
